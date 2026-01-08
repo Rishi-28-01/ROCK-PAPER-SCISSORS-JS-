@@ -27,12 +27,8 @@ This project replicates a real-world game interface and logic without using any 
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-
-> ❌ No frameworks  
-> ❌ No libraries  
+    
 > ✅ Pure frontend logic
 
----
 
-## 📂 Project Structure
 
